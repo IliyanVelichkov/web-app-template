@@ -1,0 +1,16 @@
+{
+	"items" : [{
+			"key" : "wi_positions",
+			"shortViewName" : "Positions",
+			"requiredRole" : "Everyone"
+		}, {
+			"key" : "wi_draft",
+			"shortViewName" : "Draft",
+			"requiredRole" : "Everyone"
+		}, {
+			"key" : "wi_posted",
+			"shortViewName" : "Posted",
+			"requiredRole" : "Administrator"
+		}
+	]
+}
